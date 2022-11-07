@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "66978759764",
+    "firebase_url": "https://bt10-cuong-firebase-default-rtdb.firebaseio.com",
+    "project_id": "bt10-cuong-firebase",
+    "storage_bucket": "bt10-cuong-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66978759764:android:cd170a76f6bd77dd84d9c1",
+        "android_client_info": {
+          "package_name": "com.example.bt10_cuong_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66978759764-vtdqlh2072i2f43q3l38gvjid4t537mq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYBbQHskYajScxbh89-iqPuzw5P8QtOCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66978759764-vtdqlh2072i2f43q3l38gvjid4t537mq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
